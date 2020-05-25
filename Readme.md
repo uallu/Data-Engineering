@@ -1,6 +1,6 @@
 # Data Engineering Nanodegree
 
-Projects and resources developed for Nanodegree(https://www.udacity.com/course/data-engineer-nanodegree--nd027) from Udacity.
+Projects and resources developed for [Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027) from Udacity.
 
 ## Project 1: [Relational Databases - Data Modeling with PostgreSQL](https://github.com/uallu/Data-Engineering/tree/master/1.%20Data%20Modeling%20-%20Postgres).
 Developed a relational database using PostgreSQL to model user activity data for a music streaming app. Skills include:
